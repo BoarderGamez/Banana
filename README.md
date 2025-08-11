@@ -1,6 +1,6 @@
 # Just an image of a Banaana
 
-A simple Python project that uses **Tkinter** and **Pillow** to display an image (`Apple.png`) in a GUI window.
+A simple Python project that uses **Tkinter** and **Pillow** to display an image (`Banana.png`) in a GUI window.
 
 ---
 
